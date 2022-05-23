@@ -1,0 +1,7 @@
+C:\Build\iniSync\iniSync\bin\Release\iniSync.exe.config
+C:\Build\iniSync\iniSync\bin\Release\iniSync.exe
+C:\Build\iniSync\iniSync\bin\Release\iniSync.pdb
+C:\Build\iniSync\iniSync\obj\Release\iniSync.FormMain.resources
+C:\Build\iniSync\iniSync\obj\Release\iniSync.csproj.GenerateResource.Cache
+C:\Build\iniSync\iniSync\obj\Release\iniSync.exe
+C:\Build\iniSync\iniSync\obj\Release\iniSync.pdb
