@@ -16,7 +16,7 @@ namespace iniSync
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        void button1_Click(object sender, EventArgs e)
         {
             file1 = null;
             DialogResult result = openFileDialog1.ShowDialog();
@@ -27,7 +27,7 @@ namespace iniSync
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        void button2_Click(object sender, EventArgs e)
         {
             file2 = null;
             DialogResult result = openFileDialog2.ShowDialog();
@@ -38,7 +38,7 @@ namespace iniSync
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        void button3_Click(object sender, EventArgs e)
         {
             if (File.Exists(file1) && File.Exists(file2))
             {
